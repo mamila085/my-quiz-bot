@@ -1,0 +1,53 @@
+{
+  "forex": [
+    {
+      "question": "What does 'forex' stand for?",
+      "options": ["Foreign Exchange", "Forward Exchange", "Free Exchange", "Fast Exchange"],
+      "answer": "Foreign Exchange"
+    },
+    {
+      "question": "Which currency pair is known as 'the Cable'?",
+      "options": ["EUR/USD", "USD/JPY", "GBP/USD", "AUD/USD"],
+      "answer": "GBP/USD"
+    },
+    {
+      "question": "Which is the most traded currency in the world?",
+      "options": ["Euro", "US Dollar", "Japanese Yen", "British Pound"],
+      "answer": "US Dollar"
+    }
+  ],
+  "crypto": [
+    {
+      "question": "Who created Bitcoin?",
+      "options": ["Vitalik Buterin", "Elon Musk", "Satoshi Nakamoto", "Charles Hoskinson"],
+      "answer": "Satoshi Nakamoto"
+    },
+    {
+      "question": "What does 'ETH' stand for in crypto?",
+      "options": ["Ethereum", "Ethernet", "Ethical Coin", "Ether"],
+      "answer": "Ethereum"
+    },
+    {
+      "question": "What technology underpins cryptocurrencies?",
+      "options": ["Blockchain", "Cloud Computing", "Quantum Computing", "AI"],
+      "answer": "Blockchain"
+    }
+  ],
+  "general": [
+    {
+      "question": "What is the capital of Ethiopia?",
+      "options": ["Hawassa", "Addis Ababa", "Mekelle", "Bahir Dar"],
+      "answer": "Addis Ababa"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Venus", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+      "answer": "Albert Einstein"
+    }
+  ]
+}
