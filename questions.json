@@ -1,9 +1,9 @@
 {
   "forex": [
     {
-      "question": "What does 'forex' stand for?",
-      "options": ["Foreign Exchange", "Forward Exchange", "Free Exchange", "Fast Exchange"],
-      "answer": "Foreign Exchange"
+      "question": "በ Forex ትሬዲንግ Pip ምህጻረ ቃል ሙሉ ትርጉሙ ምንድነው?",
+      "options": ["A. Price Interest Point B. Percentage in Point C. Price in Percentage D. Profit in Point"],
+      "answer": "B. Percentage in Point"
     },
     {
       "question": "Which currency pair is known as 'the Cable'?",
@@ -48,6 +48,11 @@
       "question": "Who developed the theory of relativity?",
       "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
       "answer": "Albert Einstein"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": "Pacific Ocean"
     }
   ]
 }
