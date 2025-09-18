@@ -1,58 +1,238 @@
 {
   "forex": [
     {
-      "question": "በ Forex ትሬዲንግ Pip ምህጻረ ቃል ሙሉ ትርጉሙ ምንድነው?",
-      "options": ["A. Price Interest Point B. Percentage in Point C. Price in Percentage D. Profit in Point"],
-      "answer": "B. Percentage in Point"
+      "question": "በ Forex ትሬዲንግ \"Pip\" ምህጻረ ቃል ሙሉ ትርጉሙ ምንድነው?",
+      "options": [
+        "Price Interest Point",
+        "Percentage in Point",
+        "Price in Percentage",
+        "Profit in Point"
+      ],
+      "answer": "Percentage in Point"
     },
     {
-      "question": "Which currency pair is known as 'the Cable'?",
-      "options": ["EUR/USD", "USD/JPY", "GBP/USD", "AUD/USD"],
-      "answer": "GBP/USD"
+      "question": "በ MSNR ስትራቴጂ ውስጥ \"S\" እና \"R\" ምንን ይወክላሉ?",
+      "options": [
+        "Sell and Rise",
+        "Stop and Reverse",
+        "Support and Resistance",
+        "Slow and Rapid"
+      ],
+      "answer": "Support and Resistance"
     },
     {
-      "question": "Which is the most traded currency in the world?",
-      "options": ["Euro", "US Dollar", "Japanese Yen", "British Pound"],
-      "answer": "US Dollar"
+      "question": "አንድ የ Resistance Level በጠንካራ የዋጋ ግፊት (strong momentum) ከተሰበረ በኋላ፣ ወደፊት ምን ሆኖ የማገልገል እድሉ ሰፊ ነው?",
+      "options": [
+        "አዲስ Resistance ሆኖ",
+        "Support ሆኖ",
+        "ምንም አይነት ጥቅም የለውም",
+        "የ Volatility መነሻ ይሆናል"
+      ],
+      "answer": "Support ሆኖ"
+    },
+    {
+      "question": "የትኛው Timeframe ላይ የሚሳል Support/Resistance Level ነው የበለጠ ጠንካራ እና ተአማኒነት ያለው?",
+      "options": [
+        "5 ደቂቃ (5-minute)",
+        "1 ሰዓት (1-hour)",
+        "4 ሰዓት (4-hour)",
+        "1 ሳምንት (Weekly)"
+      ],
+      "answer": "1 ሳምንት (Weekly)"
+    },
+    {
+      "question": "EUR/USD, GBP/USD, እና USD/JPY ምን ተብለው ይታወቃሉ?",
+      "options": [
+        "Exotic Pairs",
+        "Minor Pairs",
+        "Major Pairs",
+        "Stock Indices"
+      ],
+      "answer": "Major Pairs"
+    },
+    {
+      "question": "አንድ ትሬደር በትንሽ ካፒታል ትልቅ የገበያ መጠን እንዲቆጣጠር የሚያስችለው መሳሪያ ምን ይባላል?",
+      "options": [
+        "Leverage",
+        "Spread",
+        "Margin Call",
+        "Swap"
+      ],
+      "answer": "Leverage"
+    },
+    {
+      "question": "ገበያው ወደ ላይም ወደ ታችም አቅጣጫ ሳይይዝ ወደ ጎን ብቻ ሲሄድ (Sideways market) ምን አይነት የገበያ ሁኔታ (Market Condition) ይባላል?",
+      "options": [
+        "Trending Market",
+        "Volatile Market",
+        "Ranging Market",
+        "Liquid Market"
+      ],
+      "answer": "Ranging Market"
+    },
+    {
+      "question": "በ MSNR ስትራቴጂ መሰረት፣ ትሬድ ለመክፈት በጣም ጥሩው ቦታ የቱ ነው?",
+      "options": [
+        "በ Support እና Resistance መካከል",
+        "ከ Support እና Resistance በጣም ርቆ",
+        "በተቻለ መጠን ወደ Major Support ወይም Major Resistance ተጠግቶ",
+        "ዜና በሚነገርበት ሰዓት"
+      ],
+      "answer": "በተቻለ መጠን ወደ Major Support ወይም Major Resistance ተጠግቶ"
+    },
+    {
+      "question": "\"Spread\" በ Forex ውስጥ ምን ማለት ነው?",
+      "options": [
+        "በትሬድ ላይ የሚገኝ ትርፍ",
+        "በሻጭ ዋጋ (Ask Price) እና በገዥ ዋጋ (Bid Price) መካከል ያለው ልዩነት",
+        "ለ брокер የሚከፈል ኮሚሽን",
+        "የአንድ ቀን ትሬድ ትርፍ"
+      ],
+      "answer": "በሻጭ ዋጋ (Ask Price) እና በገዥ ዋጋ (Bid Price) መካከል ያለው ልዩነት"
+    },
+    {
+      "question": "በገበታ (Chart) ላይ የዋጋ ከፍተኛ እና ዝቅተኛ ነጥቦችን የሚያሳዩት የ \"Candlestick\" ክፍሎች ምን ይባላሉ?",
+      "options": [
+        "Body",
+        "Wicks (or Shadows)",
+        "Open and Close",
+        "Volume"
+      ],
+      "answer": "Wicks (or Shadows)"
     }
   ],
   "crypto": [
     {
-      "question": "Who created Bitcoin?",
-      "options": ["Vitalik Buterin", "Elon Musk", "Satoshi Nakamoto", "Charles Hoskinson"],
-      "answer": "Satoshi Nakamoto"
+      "question": "የመጀመሪያው እና በጣም ታዋቂው ክሪፕቶከረንሲ ምንድን ነው?",
+      "options": [
+        "Ethereum",
+        "Ripple (XRP)",
+        "Bitcoin",
+        "Dogecoin"
+      ],
+      "answer": "Bitcoin"
     },
     {
-      "question": "What does 'ETH' stand for in crypto?",
-      "options": ["Ethereum", "Ethernet", "Ethical Coin", "Ether"],
-      "answer": "Ethereum"
-    },
-    {
-      "question": "What technology underpins cryptocurrencies?",
-      "options": ["Blockchain", "Cloud Computing", "Quantum Computing", "AI"],
+      "question": "የክሪፕቶከረንሲ ዝውውሮችን (transactions) የሚመዘግብ እና የማያቋርጥ የዲጂታል መዝገብ (digital ledger) ምን ይባላል?",
+      "options": [
+        "Cryptocurrency",
+        "Wallet",
+        "Blockchain",
+        "Mining"
+      ],
       "answer": "Blockchain"
+    },
+    {
+      "question": "የግል የይለፍ ቃልህን (Private Key) ለሌላ ሰው መስጠት ምን አይነት አደጋ አለው?",
+      "options": [
+        "ምንም አደጋ የለውም",
+        "የ Walletህን ፍጥነት ይቀንሳል",
+        "ሌላ ሰው የ Crypto ሀብትህን እንዲሰርቅ ያስችለዋል",
+        "የ Public Keyህን ይለውጠዋል"
+      ],
+      "answer": "ሌላ ሰው የ Crypto ሀብትህን እንዲሰርቅ ያስችለዋል"
+    },
+    {
+      "question": "ከኢንተርኔት ጋር ያልተገናኘ እና ደህንነቱ ከፍተኛ የሆነ የ Crypto Wallet አይነት ምን ይባላል?",
+      "options": [
+        "Hot Wallet",
+        "Exchange Wallet",
+        "Software Wallet",
+        "Cold Wallet (ለምሳሌ፡ Ledger, Trezor)"
+      ],
+      "answer": "Cold Wallet (ለምሳሌ፡ Ledger, Trezor)"
+    },
+    {
+      "question": "በ Crypto ማህበረሰብ ውስጥ \"HODL\" የሚለው ቃል ምን ማለት ነው?",
+      "options": [
+        "ቶሎ ቶሎ መሸጥ እና መግዛት",
+        "ዋጋው ቢወርድም ቢጨምርም ሳይሸጡ ለረጅም ጊዜ መያዝ",
+        "ክሪፕቶ ማዕድን ማውጣት (Mining)",
+        "አዲስ ክሪፕቶ መግዛት"
+      ],
+      "answer": "ዋጋው ቢወርድም ቢጨምርም ሳይሸጡ ለረጅም ጊዜ መያዝ"
+    },
+    {
+      "question": "ከ Bitcoin ውጪ ያሉ ሌሎች ክሪፕቶከረንሲዎች በሙሉ በአንድ ላይ ምን ተብለው ይጠራሉ?",
+      "options": [
+        "Bitcoin Clones",
+        "Altcoins (Alternative Coins)",
+        "Sidechains",
+        "Tokens"
+      ],
+      "answer": "Altcoins (Alternative Coins)"
+    },
+    {
+      "question": "በ Ethereum ኔትወርክ ላይ ዝውውር (transaction) ለማድረግ የሚከፈል ክፍያ ምን ይባላል?",
+      "options": [
+        "Tax",
+        "Commission",
+        "Gas Fee",
+        "Network Cost"
+      ],
+      "answer": "Gas Fee"
+    },
+    {
+      "question": "\"DCA\" የተለመደ የኢንቨስትመንት ስትራቴጂ ሲሆን ሙሉ ትርጉሙ ምንድነው?",
+      "options": [
+        "Daily Crypto Average",
+        "Dollar-Cost Averaging",
+        "Decentralized Crypto Assets",
+        "Digital Coin Arbitrage"
+      ],
+      "answer": "Dollar-Cost Averaging"
+    },
+    {
+      "question": "የ Bitcoin አቅርቦት (supply) በየአራት ዓመቱ በግምት በግማሽ የሚቀንስበት ሂደት ምን ይባላል?",
+      "options": [
+        "The Reduction",
+        "The Fork",
+        "The Halving",
+        "The Supply Shock"
+      ],
+      "answer": "The Halving"
+    },
+    {
+      "question": "በባለቤትነት ያልተማከለ እና በማህበረሰብ የሚመራ የክሪፕቶ ልውውጥ (exchange) ምን ይባላል?",
+      "options": [
+        "CEX (Centralized Exchange)",
+        "DEX (Decentralized Exchange)",
+        "Bank",
+        "Broker"
+      ],
+      "answer": "DEX (Decentralized Exchange)"
     }
   ],
   "general": [
     {
       "question": "What is the capital of Ethiopia?",
-      "options": ["Hawassa", "Addis Ababa", "Mekelle", "Bahir Dar"],
+      "options": [
+        "Hawassa",
+        "Addis Ababa",
+        "Mekelle",
+        "Bahir Dar"
+      ],
       "answer": "Addis Ababa"
     },
     {
       "question": "Which planet is known as the Red Planet?",
-      "options": ["Earth", "Venus", "Mars", "Jupiter"],
+      "options": [
+        "Earth",
+        "Venus",
+        "Mars",
+        "Jupiter"
+      ],
       "answer": "Mars"
     },
     {
       "question": "Who developed the theory of relativity?",
-      "options": ["Isaac Newton", "Albert Einstein", "Nikola Tesla", "Galileo Galilei"],
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Nikola Tesla",
+        "Galileo Galilei"
+      ],
       "answer": "Albert Einstein"
-    },
-    {
-      "question": "What is the largest ocean on Earth?",
-      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
-      "answer": "Pacific Ocean"
     }
   ]
 }
